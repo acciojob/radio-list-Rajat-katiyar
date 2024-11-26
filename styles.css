@@ -1,4 +1,4 @@
 /*  your css code here. If applicable */
- .input {  
-            color: red;  
-        } 
+label:nth-child(even) .input {  
+    color: red;  
+} 
